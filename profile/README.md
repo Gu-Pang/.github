@@ -7,7 +7,7 @@ Gu-Pang은 전국 17개 허브를 거점으로 기업 간(B2B) 물품 보관 및
 
 | [김도현](https://github.com/kimdh32022) | [김관형](https://github.com/kwanhyoungkim) | [박상은](https://github.com/ddangme) | [김시온](https://github.com/sionkim0126) | [김강현](https://github.com/mkcellokh) |
 |:------------------------------------:|:---------------------------------------:|:-------------------------------------:|:----------------------------------:|:-----------------------------------:|
-|    공통(Common), <br/>  주문(Order)    |    회사(Company), <br/>    상품(Product)    |공통(Common),<br/>    허브(Hub), infra    |    배달(Delivery), AI    |    유저(User)    |
+|    공통(Common), <br/>  주문(Order)    |    회사(Company), <br/>    상품(Product)    |공통(Common),<br/>    허브(Hub), Infra    |    배달(Delivery), AI    |    유저(User)    |
 
 ## :hammer_and_pick: ERD
 <img width="1268" height="1807" alt="Untitled (1)" src="https://github.com/user-attachments/assets/3749112f-a19d-42cd-b18e-56ee30a49e05" />
